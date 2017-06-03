@@ -1,0 +1,28 @@
+C:\BackupProjects\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe.config
+C:\BackupProjects\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe
+C:\BackupProjects\FileProcessor\FileProcessor\bin\Debug\FileProcessor.pdb
+C:\BackupProjects\FileProcessor\FileProcessor\obj\Debug\FileProcessor.csprojResolveAssemblyReference.cache
+C:\BackupProjects\FileProcessor\FileProcessor\obj\Debug\MainWindow.g.cs
+C:\BackupProjects\FileProcessor\FileProcessor\obj\Debug\App.g.cs
+C:\BackupProjects\FileProcessor\FileProcessor\obj\Debug\FileProcessor_MarkupCompile.cache
+C:\BackupProjects\FileProcessor\FileProcessor\obj\Debug\FileProcessor_MarkupCompile.lref
+C:\BackupProjects\FileProcessor\FileProcessor\obj\Debug\MainWindow.baml
+C:\BackupProjects\FileProcessor\FileProcessor\obj\Debug\FileProcessor.g.resources
+C:\BackupProjects\FileProcessor\FileProcessor\obj\Debug\FileProcessor.Properties.Resources.resources
+C:\BackupProjects\FileProcessor\FileProcessor\obj\Debug\FileProcessor.csproj.GenerateResource.Cache
+C:\BackupProjects\FileProcessor\FileProcessor\obj\Debug\FileProcessor.exe
+C:\BackupProjects\FileProcessor\FileProcessor\obj\Debug\FileProcessor.pdb
+C:\BackupProjects\FileProcessor\FileProcessor\obj\Debug\View\MainPage.g.cs
+C:\BackupProjects\FileProcessor\FileProcessor\obj\Debug\View\MainPage.baml
+C:\Customer Programs\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe.config
+C:\Customer Programs\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe
+C:\Customer Programs\FileProcessor\FileProcessor\bin\Debug\FileProcessor.pdb
+C:\Customer Programs\FileProcessor\FileProcessor\obj\Debug\View\MainPage.baml
+C:\Customer Programs\FileProcessor\FileProcessor\obj\Debug\View\MainPage.g.cs
+C:\Customer Programs\FileProcessor\FileProcessor\obj\Debug\App.g.cs
+C:\Customer Programs\FileProcessor\FileProcessor\obj\Debug\FileProcessor_MarkupCompile.cache
+C:\Customer Programs\FileProcessor\FileProcessor\obj\Debug\FileProcessor.g.resources
+C:\Customer Programs\FileProcessor\FileProcessor\obj\Debug\FileProcessor.Properties.Resources.resources
+C:\Customer Programs\FileProcessor\FileProcessor\obj\Debug\FileProcessor.csproj.GenerateResource.Cache
+C:\Customer Programs\FileProcessor\FileProcessor\obj\Debug\FileProcessor.exe
+C:\Customer Programs\FileProcessor\FileProcessor\obj\Debug\FileProcessor.pdb

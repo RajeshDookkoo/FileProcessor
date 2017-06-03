@@ -1,0 +1,9 @@
+C:\Customer Programs\FileProcessor\FileProcessorTests\bin\Release\FileProcessorTests.dll
+C:\Customer Programs\FileProcessor\FileProcessorTests\bin\Release\FileProcessorTests.pdb
+C:\Customer Programs\FileProcessor\FileProcessorTests\bin\Release\FileProcessor.exe
+C:\Customer Programs\FileProcessor\FileProcessorTests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Customer Programs\FileProcessor\FileProcessorTests\bin\Release\FileProcessor.pdb
+C:\Customer Programs\FileProcessor\FileProcessorTests\bin\Release\FileProcessor.exe.config
+C:\Customer Programs\FileProcessor\FileProcessorTests\obj\Release\FileProcessorTests.csprojResolveAssemblyReference.cache
+C:\Customer Programs\FileProcessor\FileProcessorTests\obj\Release\FileProcessorTests.dll
+C:\Customer Programs\FileProcessor\FileProcessorTests\obj\Release\FileProcessorTests.pdb

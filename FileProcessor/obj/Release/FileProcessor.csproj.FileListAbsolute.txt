@@ -1,0 +1,12 @@
+C:\Customer Programs\FileProcessor\FileProcessor\bin\Release\FileProcessor.exe.config
+C:\Customer Programs\FileProcessor\FileProcessor\bin\Release\FileProcessor.exe
+C:\Customer Programs\FileProcessor\FileProcessor\bin\Release\FileProcessor.pdb
+C:\Customer Programs\FileProcessor\FileProcessor\obj\Release\View\MainPage.baml
+C:\Customer Programs\FileProcessor\FileProcessor\obj\Release\View\MainPage.g.cs
+C:\Customer Programs\FileProcessor\FileProcessor\obj\Release\App.g.cs
+C:\Customer Programs\FileProcessor\FileProcessor\obj\Release\FileProcessor_MarkupCompile.cache
+C:\Customer Programs\FileProcessor\FileProcessor\obj\Release\FileProcessor.g.resources
+C:\Customer Programs\FileProcessor\FileProcessor\obj\Release\FileProcessor.Properties.Resources.resources
+C:\Customer Programs\FileProcessor\FileProcessor\obj\Release\FileProcessor.csproj.GenerateResource.Cache
+C:\Customer Programs\FileProcessor\FileProcessor\obj\Release\FileProcessor.exe
+C:\Customer Programs\FileProcessor\FileProcessor\obj\Release\FileProcessor.pdb

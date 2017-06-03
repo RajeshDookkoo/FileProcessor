@@ -1,0 +1,17 @@
+C:\BackupProjects\FileProcessor\FileProcessorTests\bin\Debug\FileProcessorTests.dll
+C:\BackupProjects\FileProcessor\FileProcessorTests\bin\Debug\FileProcessorTests.pdb
+C:\BackupProjects\FileProcessor\FileProcessorTests\bin\Debug\FileProcessor.exe
+C:\BackupProjects\FileProcessor\FileProcessorTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\BackupProjects\FileProcessor\FileProcessorTests\bin\Debug\FileProcessor.pdb
+C:\BackupProjects\FileProcessor\FileProcessorTests\obj\Debug\FileProcessorTests.csprojResolveAssemblyReference.cache
+C:\BackupProjects\FileProcessor\FileProcessorTests\obj\Debug\FileProcessorTests.dll
+C:\BackupProjects\FileProcessor\FileProcessorTests\obj\Debug\FileProcessorTests.pdb
+C:\Customer Programs\FileProcessor\FileProcessorTests\bin\Debug\FileProcessorTests.dll
+C:\Customer Programs\FileProcessor\FileProcessorTests\bin\Debug\FileProcessorTests.pdb
+C:\Customer Programs\FileProcessor\FileProcessorTests\bin\Debug\FileProcessor.exe
+C:\Customer Programs\FileProcessor\FileProcessorTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Customer Programs\FileProcessor\FileProcessorTests\bin\Debug\FileProcessor.pdb
+C:\Customer Programs\FileProcessor\FileProcessorTests\bin\Debug\FileProcessor.exe.config
+C:\Customer Programs\FileProcessor\FileProcessorTests\obj\Debug\FileProcessorTests.csprojResolveAssemblyReference.cache
+C:\Customer Programs\FileProcessor\FileProcessorTests\obj\Debug\FileProcessorTests.dll
+C:\Customer Programs\FileProcessor\FileProcessorTests\obj\Debug\FileProcessorTests.pdb
